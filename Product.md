@@ -41,12 +41,29 @@ Add new products as a new table row at the end of the tbody section, below the p
 			<td><a href="https://conquesta.io">conquesta.io</a></td>
 		</tr>
 		<tr>
+			<td>GetAppNiche</td>
+			<td>App Store Intelligence / ASO</td>
+			<td>iOS App Store market intelligence for revenue estimates, ASO keywords, competitor ads, reviews, and niche research.</td>
+			<td>iOS app founders, indie developers, and app marketers</td>
+			<td>Freemium</td>
+			<td><a href="https://getappniche.com/">getappniche.com</a></td>
+		</tr>
+
+		<tr>
+			<td>Micro-SaaS Runway Price Floor Calculator</td>
+			<td>Founder Tools</td>
+			<td>Browser calculator for estimating a micro-SaaS price floor, break-even customers, and runway gap.</td>
+			<td>Bootstrapped micro-SaaS founders and solo operators</td>
+			<td>Free</td>
+			<td><a href="https://micro-saas-runway-price-floor-calculator.vercel.app/">micro-saas-runway-price-floor-calculator.vercel.app</a></td>
+		</tr>
+		<tr>
 			<td>UIZZE</td>
 			<td>Design / Developer Tools</td>
-			<td>Free anti-ui-slop Skill and no-account preview for coding agents; full UIZZE adds live research across 800,000+ real web and iOS screens, design contracts, validation, audits, and rendered critique.</td>
+			<td>Free MIT anti-ui-slop Skill and conservative GitHub Action for coding agents; optional authenticated UIZZE MCP provides focused UI references and hosted design materials grounded in 800,000+ real web and iOS screens.</td>
 			<td>Designers and developers using coding agents</td>
 			<td>Free / Paid</td>
-			<td><a href="https://uizze.com/mobbin-alternative">uizze.com/mobbin-alternative</a></td>
+			<td><a href="https://uizze.com">uizze.com</a></td>
 		</tr>
 
 	</tbody>
