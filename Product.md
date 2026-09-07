@@ -12,7 +12,7 @@ Follow the full instructions in [PRODUCT_SUBMISSION.md](PRODUCT_SUBMISSION.md).
 
 Add new products as a new table row at the end of the tbody section, below the previous entry.
 
-<table>
+<table border="1" cellpadding="8" cellspacing="0">
   <thead>
     <tr>
       <th>Product</th>
@@ -23,8 +23,8 @@ Add new products as a new table row at the end of the tbody section, below the p
       <th>Website</th>
     </tr>
   </thead>
-  <tbody>
 
+  <tbody>
     <tr>
       <td>Let's Code</td>
       <td>Developer Learning Platform</td>
@@ -114,6 +114,5 @@ Add new products as a new table row at the end of the tbody section, below the p
       <td>Freemium</td>
       <td><a href="https://gptimage2.asia/">gptimage2.asia</a></td>
     </tr>
-
   </tbody>
 </table>
