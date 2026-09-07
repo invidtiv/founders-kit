@@ -99,5 +99,14 @@ Add new products as a new table row at the end of the tbody section, below the p
 			<td><a href="https://mydentify.com/">mydentify.com</a></td>
 		</tr>
 
+		<tr>
+			<td>GPT Image 2</td>
+			<td>AI Image Generator</td>
+			<td>Generate and edit AI images for marketing, ecommerce, and social content.</td>
+			<td>Founders, marketers, ecommerce teams, and creators</td>
+			<td>Freemium</td>
+			<td><a href="https://gptimage2.asia/">gptimage2.asia</a></td>
+		</tr>
+
 	</tbody>
 </table>
