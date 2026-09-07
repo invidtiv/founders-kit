@@ -41,6 +41,12 @@ Add new products as a new table row at the end of the tbody section, below the p
 			<td><a href="https://conquesta.io">conquesta.io</a></td>
 		</tr>
 		<tr>
+			<td>DDScore</td>
+			<td>AI / Due Diligence</td>
+			<td>Turns company materials into structured investment analysis and a probability-based due diligence score.</td>
+			<td>Founders, investors, accelerators and company evaluators</td>
+			<td>Freemium</td>
+			<td><a href="https://www.ddscore.ai/">ddscore.ai</a></td>
 			<td>GetAppNiche</td>
 			<td>App Store Intelligence / ASO</td>
 			<td>iOS App Store market intelligence for revenue estimates, ASO keywords, competitor ads, reviews, and niche research.</td>
