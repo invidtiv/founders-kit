@@ -81,5 +81,14 @@ Add new products as a new table row at the end of the tbody section, below the p
 			<td><a href="https://suanlem.asia/">suanlem.asia</a></td>
 		</tr>
 
+		<tr>
+			<td>Gpt</td>
+			<td>AI Tools, Productivity</td>
+			<td>Gpt is an AI tool for improving productivity, content workflows, research, and daily work.</td>
+			<td>People looking for useful online tools</td>
+			<td>Freemium</td>
+			<td><a href="https://trygrokai.asia/">trygrokai.asia</a></td>
+		</tr>
+
 	</tbody>
 </table>
